@@ -1,6 +1,6 @@
 # Decoding the Scent Space
 
-Independent capstone project completed as part of a structured Data Analytics programme.
+Capstone project completed during the Digital Futures Data Analytics Pathway.
 
 This project explores the structure of fragrance compositions using data analysis and clustering techniques, with the aim of identifying scent segments, ingredient trends, and potential market whitespace.
 
